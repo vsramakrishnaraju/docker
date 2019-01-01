@@ -1,0 +1,11 @@
+Learned how to run Docker 
+
+Configured and build the Docker image in which a simple web application runs using express server.  
+
+Docarizing the node.js app 
+
+https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
+
+Future work 
+
+Run a DB server in docker image and connect it with web server and see how things work out? 
